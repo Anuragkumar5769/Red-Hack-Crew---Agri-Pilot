@@ -11,6 +11,8 @@ const WeatherPage = ({ onNavigate, location, setLocation }) => {
   const [weatherData, setWeatherData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [IsWeather, setIsWeather] = useState(false);
+
 
 
   const fetchWeatherData = async (lat, lon) => {
@@ -125,7 +127,10 @@ const WeatherPage = ({ onNavigate, location, setLocation }) => {
     }
   };
 
-  fetchWeatherData(location.lat, location.lon);
+  if (IsWeather==false){
+    fetchWeatherData(location.lat, location.lon);
+    setIsWeather(true);
+  }
   // console.log(`Fetching weather data for location: ${location.lat}, ${location.lon}`);
 
   const getWeatherIcon = (weatherId) => {
