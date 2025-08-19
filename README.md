@@ -1,60 +1,74 @@
-# Project Title: Agri-Assistant Full Stack Application
+# Website Setup & Run Guide
 
-This is a full-stack web application designed to assist with agricultural inquiries. It features a React (Vite) frontend, a FastAPI backend, and a Node.js server for MongoDB connectivity.
+Follow the steps below to set up and run the project.
 
-## 🚀 Features
+---
 
-* **Interactive Frontend**: A modern and responsive user interface built with React and Vite.
-* **Powerful Backend**: A robust API built with FastAPI to handle business logic.
-* **Database Integration**: Seamlessly connects to MongoDB for data persistence.
-
-## 🛠️ Technology Stack
-
-* **Frontend**: React, Vite, Tailwind CSS
-* **Backend**: Python, FastAPI
-* **Database**: MongoDB, Node.js (for direct DB connection)
-* **Deployment**: Verce
-
-## ⚙️ Local Development Setup
-
-To get the project running on your local machine, follow these steps:
-
-### 1. Clone the Repository
+## 1. Setup Virtual Environment & Install Requirements
 
 ```bash
-git clone [https://github.com/Anuragkumar5769/Red-Hack-Crew---Agri.git](https://github.com/Anuragkumar5769/Red-Hack-Crew---Agri.git)
-cd your-repo-name
-```
-### 2. Install Dependencies
-#### Frontend
-```bash
-npm install
-```
-#### Backend
-```bash
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment (Windows)
+.env\Scriptsctivate
+
+# Install backend dependencies
 pip install -r requirements.txt
 ```
-### 3. Environment Variables
-Create a .env file in the server directory and add the following:
+
+---
+## 2. Set API keys:
+
+Create a .env file.
+
 ```bash
-MONGODB_URI=your_mongodb_connection_string
-JSW_SECRET=your_jwt_secret
-PORT=5000
+GEMINI_API_KEY="your Gemini API key"
+WEATHER_API_KEY="your openweathermap API key"
+DATA_GOV_IN_API_KEY=579b464db66ec23bdd000001798dfe5b454546066ddae0d79944e04d  # this is a publically key
+VITE_API_KEY="your openweathermap API key"
 ```
-### 4. Run the Application
-You'll need three separate terminals to run all parts of the application:
-#### Terminal 1: Start the Node.js Server
+
+
 ```bash
-cd server
-npm start
+npm run dev
 ```
-#### Terminal 2: Start the FastAPI Backend
+
+## 2. Run Backend
+
 ```bash
 cd backend
 python -m app.main
 ```
-#### Terminal 3: Start the Vite Frontend
+
+---
+
+## 3. Setup Frontend
+
+(Open a **new terminal** and run:)
+
+```bash
+npm install
+npm install axios
+```
+
+---
+
+## 4. Run Server
+
+(Open another **new terminal** and run:)
+
+```bash
+cd server
+npm start
+```
+
+---
+
+## 5. Start Frontend (Dev Mode)
+
+(Open another **new terminal** and run:)
+
 ```bash
 npm run dev
 ```
-Once all services are running, you can access the application at http://localhost:5173.
