@@ -1,0 +1,116 @@
+{
+  "22.3221072,87.3041677": {
+    "timestamp": "2025-08-19T21:40:03.926166",
+    "data": {
+      "current_weather": {
+        "city": "Kharagpur",
+        "temperature": 26.59,
+        "feels_like": 26.59,
+        "humidity": 91,
+        "wind_speed": 4.02,
+        "description": "scattered clouds"
+      },
+      "five_day_forecast": [
+        {
+          "date": "2025-08-19",
+          "temp_max": 26.6,
+          "temp_min": 26.42,
+          "weather": "scattered clouds",
+          "pop": 0
+        },
+        {
+          "date": "2025-08-20",
+          "temp_max": 29.75,
+          "temp_min": 26,
+          "weather": "light rain",
+          "pop": 0.93
+        },
+        {
+          "date": "2025-08-21",
+          "temp_max": 32.24,
+          "temp_min": 25.98,
+          "weather": "light rain",
+          "pop": 1
+        },
+        {
+          "date": "2025-08-22",
+          "temp_max": 29.04,
+          "temp_min": 25.33,
+          "weather": "overcast clouds",
+          "pop": 0.28
+        },
+        {
+          "date": "2025-08-23",
+          "temp_max": 30.52,
+          "temp_min": 25.41,
+          "weather": "light rain",
+          "pop": 1
+        },
+        {
+          "date": "2025-08-24",
+          "temp_max": 31.15,
+          "temp_min": 25.02,
+          "weather": "broken clouds",
+          "pop": 0
+        }
+      ]
+    }
+  },
+  "22.3235234,87.3096798": {
+    "timestamp": "2025-08-19T22:07:03.018510",
+    "data": {
+      "current_weather": {
+        "city": "Kharagpur",
+        "temperature": 26.54,
+        "feels_like": 26.54,
+        "humidity": 92,
+        "wind_speed": 3.92,
+        "description": "scattered clouds"
+      },
+      "five_day_forecast": [
+        {
+          "date": "2025-08-19",
+          "temp_max": 26.42,
+          "temp_min": 26.42,
+          "weather": "scattered clouds",
+          "pop": 0
+        },
+        {
+          "date": "2025-08-20",
+          "temp_max": 29.75,
+          "temp_min": 26,
+          "weather": "light rain",
+          "pop": 0.93
+        },
+        {
+          "date": "2025-08-21",
+          "temp_max": 32.24,
+          "temp_min": 25.98,
+          "weather": "light rain",
+          "pop": 1
+        },
+        {
+          "date": "2025-08-22",
+          "temp_max": 29.04,
+          "temp_min": 25.33,
+          "weather": "overcast clouds",
+          "pop": 0.28
+        },
+        {
+          "date": "2025-08-23",
+          "temp_max": 30.52,
+          "temp_min": 25.41,
+          "weather": "light rain",
+          "pop": 1
+        },
+        {
+          "date": "2025-08-24",
+          "temp_max": 31.15,
+          "temp_min": 25.02,
+          "weather": "broken clouds",
+          "pop": 0
+        }
+      ]
+    }
+  }
+}

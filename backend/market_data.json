@@ -1,0 +1,407 @@
+{
+  "[[\"state\", \"West Bengal\"]]": {
+    "timestamp": "2025-08-19T22:06:05.356869",
+    "data": [
+      {
+        "commodity": "Sweet Pumpkin",
+        "mandi": "Alipurduar",
+        "state": "West Bengal",
+        "district": "Alipurduar",
+        "modal_price": "2100",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Tomato",
+        "mandi": "Alipurduar",
+        "state": "West Bengal",
+        "district": "Alipurduar",
+        "modal_price": "5800",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Mustard",
+        "mandi": "Bankura Sadar",
+        "state": "West Bengal",
+        "district": "Bankura",
+        "modal_price": "5950",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Paddy(Dhan)(Common)",
+        "mandi": "Bankura Sadar",
+        "state": "West Bengal",
+        "district": "Bankura",
+        "modal_price": "2300",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Potato",
+        "mandi": "Bankura Sadar",
+        "state": "West Bengal",
+        "district": "Bankura",
+        "modal_price": "1180",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Potato",
+        "mandi": "Bishnupur(Bankura)",
+        "state": "West Bengal",
+        "district": "Bankura",
+        "modal_price": "1080",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Paddy(Dhan)(Common)",
+        "mandi": "Indus(Bankura Sadar)",
+        "state": "West Bengal",
+        "district": "Bankura",
+        "modal_price": "2300",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Mustard",
+        "mandi": "Khatra",
+        "state": "West Bengal",
+        "district": "Bankura",
+        "modal_price": "6000",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Paddy(Dhan)(Common)",
+        "mandi": "Khatra",
+        "state": "West Bengal",
+        "district": "Bankura",
+        "modal_price": "2300",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Paddy(Dhan)(Common)",
+        "mandi": "Birbhum",
+        "state": "West Bengal",
+        "district": "Birbhum",
+        "modal_price": "2310",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Potato",
+        "mandi": "Birbhum",
+        "state": "West Bengal",
+        "district": "Birbhum",
+        "modal_price": "1100",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Rice",
+        "mandi": "Birbhum",
+        "state": "West Bengal",
+        "district": "Birbhum",
+        "modal_price": "3500",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Green Chilli",
+        "mandi": "Bolpur",
+        "state": "West Bengal",
+        "district": "Birbhum",
+        "modal_price": "11050",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Paddy(Dhan)(Common)",
+        "mandi": "Bolpur",
+        "state": "West Bengal",
+        "district": "Birbhum",
+        "modal_price": "2310",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Rice",
+        "mandi": "Bolpur",
+        "state": "West Bengal",
+        "district": "Birbhum",
+        "modal_price": "3500",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Bitter gourd",
+        "mandi": "Haldibari",
+        "state": "West Bengal",
+        "district": "Coochbehar",
+        "modal_price": "3900",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Pointed gourd (Parval)",
+        "mandi": "Haldibari",
+        "state": "West Bengal",
+        "district": "Coochbehar",
+        "modal_price": "3600",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Potato",
+        "mandi": "Balurghat",
+        "state": "West Bengal",
+        "district": "Dakshin Dinajpur",
+        "modal_price": "1110",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Onion",
+        "mandi": "Darjeeling",
+        "state": "West Bengal",
+        "district": "Darjeeling",
+        "modal_price": "2900",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Potato",
+        "mandi": "Darjeeling",
+        "state": "West Bengal",
+        "district": "Darjeeling",
+        "modal_price": "2200",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "French Beans (Frasbean)",
+        "mandi": "Karsiyang(Matigara)",
+        "state": "West Bengal",
+        "district": "Darjeeling",
+        "modal_price": "7500",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Banana",
+        "mandi": "Siliguri",
+        "state": "West Bengal",
+        "district": "Darjeeling",
+        "modal_price": "1900",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Black Gram Dal (Urd Dal)",
+        "mandi": "Siliguri",
+        "state": "West Bengal",
+        "district": "Darjeeling",
+        "modal_price": "11000",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Masur Dal",
+        "mandi": "Siliguri",
+        "state": "West Bengal",
+        "district": "Darjeeling",
+        "modal_price": "10000",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Tomato",
+        "mandi": "Siliguri",
+        "state": "West Bengal",
+        "district": "Darjeeling",
+        "modal_price": "5500",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Potato",
+        "mandi": "Pandua",
+        "state": "West Bengal",
+        "district": "Hooghly",
+        "modal_price": "1220",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Rice",
+        "mandi": "Pandua",
+        "state": "West Bengal",
+        "district": "Hooghly",
+        "modal_price": "4675",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Brinjal",
+        "mandi": "Ramkrishanpur(Howrah)",
+        "state": "West Bengal",
+        "district": "Howrah",
+        "modal_price": "6500",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Tomato",
+        "mandi": "Ramkrishanpur(Howrah)",
+        "state": "West Bengal",
+        "district": "Howrah",
+        "modal_price": "6500",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Green Chilli",
+        "mandi": "Uluberia",
+        "state": "West Bengal",
+        "district": "Howrah",
+        "modal_price": "8500",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Onion",
+        "mandi": "Uluberia",
+        "state": "West Bengal",
+        "district": "Howrah",
+        "modal_price": "2500",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Onion",
+        "mandi": "Dhupguri",
+        "state": "West Bengal",
+        "district": "Jalpaiguri",
+        "modal_price": "2400",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Pointed gourd (Parval)",
+        "mandi": "Dhupguri",
+        "state": "West Bengal",
+        "district": "Jalpaiguri",
+        "modal_price": "4900",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Bitter gourd",
+        "mandi": "Jalpaiguri Sadar",
+        "state": "West Bengal",
+        "district": "Jalpaiguri",
+        "modal_price": "5400",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Brinjal",
+        "mandi": "Jalpaiguri Sadar",
+        "state": "West Bengal",
+        "district": "Jalpaiguri",
+        "modal_price": "3400",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Green Chilli",
+        "mandi": "Jalpaiguri Sadar",
+        "state": "West Bengal",
+        "district": "Jalpaiguri",
+        "modal_price": "9800",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Mustard Oil",
+        "mandi": "Jhargram",
+        "state": "West Bengal",
+        "district": "Jhargram",
+        "modal_price": "15800",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Mango",
+        "mandi": "Mechua",
+        "state": "West Bengal",
+        "district": "Kolkata",
+        "modal_price": "10000",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Mousambi(Sweet Lime)",
+        "mandi": "Mechua",
+        "state": "West Bengal",
+        "district": "Kolkata",
+        "modal_price": "9000",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Green Chilli",
+        "mandi": "Sealdah Koley Market",
+        "state": "West Bengal",
+        "district": "Kolkata",
+        "modal_price": "7000",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Sweet Pumpkin",
+        "mandi": "Sealdah Koley Market",
+        "state": "West Bengal",
+        "district": "Kolkata",
+        "modal_price": "2500",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Potato",
+        "mandi": "English Bazar",
+        "state": "West Bengal",
+        "district": "Malda",
+        "modal_price": "1110",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Rice",
+        "mandi": "Samsi",
+        "state": "West Bengal",
+        "district": "Malda",
+        "modal_price": "5200",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Rice",
+        "mandi": "Kolaghat",
+        "state": "West Bengal",
+        "district": "Medinipur(E)",
+        "modal_price": "3700",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Betal Leaves",
+        "mandi": "Tamluk (Medinipur E)",
+        "state": "West Bengal",
+        "district": "Medinipur(E)",
+        "modal_price": "30000",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Brinjal",
+        "mandi": "Garbeta(Medinipur)",
+        "state": "West Bengal",
+        "district": "Medinipur(W)",
+        "modal_price": "5400",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Green Chilli",
+        "mandi": "Ghatal",
+        "state": "West Bengal",
+        "district": "Medinipur(W)",
+        "modal_price": "8100",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Sweet Pumpkin",
+        "mandi": "Ghatal",
+        "state": "West Bengal",
+        "district": "Medinipur(W)",
+        "modal_price": "2600",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Sweet Pumpkin",
+        "mandi": "Medinipur(West)",
+        "state": "West Bengal",
+        "district": "Medinipur(W)",
+        "modal_price": "2500",
+        "arrival_date": "19/08/2025"
+      },
+      {
+        "commodity": "Tomato",
+        "mandi": "Medinipur(West)",
+        "state": "West Bengal",
+        "district": "Medinipur(W)",
+        "modal_price": "6500",
+        "arrival_date": "19/08/2025"
+      }
+    ]
+  }
+}

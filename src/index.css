@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Utilities to match the wireframes precisely */
+@layer utilities {
+  .card {
+    @apply bg-white rounded-2xl shadow-soft;
+  }
+  .pill {
+    @apply text-xs font-semibold px-2 py-1 rounded-full;
+  }
+  .gradient-green {
+    background: linear-gradient(135deg, #22c55e, #16a34a);
+  }
+  .gradient-blue {
+    background: linear-gradient(135deg, #60a5fa, #22d3ee);
+  }
+  .frost {
+    @apply bg-white/70 backdrop-blur-md;
+  }
+  .shadow-soft {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  }
+  .dot {
+    @apply w-2 h-2 rounded-full bg-white/60;
+  }
+}
