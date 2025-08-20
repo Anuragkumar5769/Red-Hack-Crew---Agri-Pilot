@@ -11,7 +11,7 @@ Follow the steps below to set up and run the project.
 python -m venv venv
 
 # Activate virtual environment (Windows)
-.\env\Scripts\activate
+.\venv\Scripts\activate
 
 # Install backend dependencies
 pip install -r requirements.txt
