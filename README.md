@@ -11,7 +11,7 @@ Follow the steps below to set up and run the project.
 python -m venv venv
 
 # Activate virtual environment (Windows)
-.env\Scriptsctivate
+.\env\Scripts\activate
 
 # Install backend dependencies
 pip install -r requirements.txt
@@ -27,11 +27,6 @@ GEMINI_API_KEY="your Gemini API key"
 WEATHER_API_KEY="your openweathermap API key"
 DATA_GOV_IN_API_KEY=579b464db66ec23bdd000001798dfe5b454546066ddae0d79944e04d  # this is a publically key
 VITE_API_KEY="your openweathermap API key"
-```
-
-
-```bash
-npm run dev
 ```
 
 ## 2. Run Backend
